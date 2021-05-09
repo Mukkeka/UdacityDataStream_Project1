@@ -1,0 +1,12 @@
+{
+  "type": "record",
+        "name": "weather.value",
+        "namespace": "com.udacity.project1",
+        "fields": [
+            {"name": "temperature",
+             "type": "double"},
+            {"name": "status",
+             "type": "enum"}
+            
+        ]
+}
